@@ -1,0 +1,2 @@
+# pgMigration
+PosgreSQL数据迁移工具，可以实现整个数据库或者指定数据表的数据复制，将源数据整体移动到目标数据库; 主要使用了PostgreSQL数据库的dblink扩展功能；所以使用时请安装dblink扩展
